@@ -8,7 +8,7 @@
 
 - 💬 Ask me about *JavaScript,Java,*
 
-- 📫 How to reach me *vivekchaudhary538@gmail.com*
+- 👨‍💻 All of my projects are available at [My Portfolio](https://mrvivek30.github.io/)
 
 - ⚡ Fun fact *I am Funny*
 
