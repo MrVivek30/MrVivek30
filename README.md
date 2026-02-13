@@ -1,13 +1,13 @@
 <!-- Custom Banner for Vivek Chaudhary -->
 <p align="center">
-  <img src="YOUR_SELECTED_BANNER_URL" alt="Vivek Chaudhary Banner" width="100%" />
+  <img src="https://your-banner-image-url.com" alt="Vivek Chaudhary Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Vivek Chaudhary</h1>
 <h3 align="center">🚀 Backend Developer | Java | Spring Boot | MongoDB</h3>
 
 <p align="center">
-  <img src="YOUR_PHOTO_URL" width="180" style="border-radius:50%" />
+  <img src="https://your-profile-photo-url.com" width="180" style="border-radius:50%" />
 </p>
 
 ---
