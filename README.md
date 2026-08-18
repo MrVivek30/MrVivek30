@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Software Developer (SD1) with 1.8+ years experience  
+- 💼 Software Developer (SD3) with 3+ years experience  
 - 🔥 Specialized in Java Backend Development  
 - ⚙️ Building scalable APIs using Spring Boot  
 - 🗄️ Working with MongoDB & MySQL  
